@@ -33,6 +33,23 @@
       "message": "Be nice",
       "revId": "083c50ea08443fd04fa5cbd88aaf32c458c8e763",
       "serverId": "ed425d63-8d31-4f40-b4e0-dc35cc52d350"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0acd4a3_26f8a7d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000006
+      },
+      "writtenOn": "2023-11-06T19:31:49Z",
+      "side": 1,
+      "message": "a comment",
+      "revId": "083c50ea08443fd04fa5cbd88aaf32c458c8e763",
+      "serverId": "ed425d63-8d31-4f40-b4e0-dc35cc52d350"
     }
   ],
   "submitRequirementResults": []
